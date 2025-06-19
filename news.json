@@ -10,5 +10,17 @@
     ],
     "update_link": "https://velocityhub.example.com/update",
     "game_link": "https://www.roblox.com/games/3351674303/MEXICO-CITY-Driving-Empire-Car-Racing"
+  },
+  {
+    "game_name": "Driving Empire",
+    "title": "testing",
+    "description": "testing",
+    "changelogs": [
+      "testing",
+      "testing",
+      "testing"
+    ],
+    "update_link": "roblox.com",
+    "game_link": "roblox.com"
   }
-] 
+]
