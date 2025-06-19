@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Friday Night Drift Meet",
+    "car_theme": "Japanese Drift Cars (JDM)",
+    "hosts": "@DriftKing & @TokyoRacer",
+    "location": "Driving Empire - Mountain Pass",
+    "link": "https://www.roblox.com/games/3351674303/MEXICO-CITY-Driving-Empire-Car-Racing",
+    "description": "Join us for an epic Friday night drift session! Show off your best JDM builds and compete in our drift competition. Prizes for the best drifters!",
+    "start_time": "2024-12-20T20:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "title": "Sunday Cruise Meet",
+    "car_theme": "Classic Cars & Muscle",
+    "hosts": "@ClassicRider & @MuscleMan",
+    "location": "Driving Empire - Downtown",
+    "link": "https://www.roblox.com/games/3351674303/MEXICO-CITY-Driving-Empire-Car-Racing",
+    "description": "Relaxed Sunday cruise through the city. Show off your classic and muscle car collection. All skill levels welcome!",
+    "start_time": "2024-12-22T15:00:00Z",
+    "status": "upcoming"
+  },
+  {
+    "title": "Hypercar Showcase",
+    "car_theme": "Supercars & Hypercars",
+    "hosts": "@SpeedDemon & @LuxuryLover",
+    "location": "Driving Empire - Airport",
+    "link": "https://www.roblox.com/games/3351674303/MEXICO-CITY-Driving-Empire-Car-Racing",
+    "description": "Exclusive hypercar showcase and drag racing event. Only the fastest and most expensive cars allowed. Spectators welcome!",
+    "start_time": "2024-12-25T18:00:00Z",
+    "status": "upcoming"
+  }
+] 
