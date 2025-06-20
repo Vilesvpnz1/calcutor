@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "game_name": "Driving Empire",
+    "title": "Mexico City Update + June 17 Bug Fix Patch",
+    "description": "The Mexico City map is now live with new NASCAR liveries and a limited-time Chevrolet Bel-Air. A major bug-fix patch on June 17 resolved several performance and UI issues.",
+    "changelogs": [
+      "New Mexico City map added",
+      "4 new NASCAR liveries",
+      "Limited-time Chevrolet Bel-Air added",
+      "Fixed top speed bug",
+      "Rush Hour Race ramp crash fix",
+      "Inventory and parts button UI fixes",
+      "NASCAR NPC spam bug resolved",
+      "Playtime reward freezing addressed"
+    ],
+    "update_link": "https://discord.com/channels/706613146156138557/763593853298671636",
+    "game_link": "https://www.roblox.com/games/3351674303/Driving-Empire"
+  }
+]
