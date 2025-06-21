@@ -15,5 +15,23 @@
     ],
     "update_link": "https://discord.com/channels/706613146156138557/763593853298671636",
     "game_link": "https://www.roblox.com/games/3351674303/Driving-Empire"
+  },
+  {
+    "game_name": "Greenville",
+    "title": "Jaguar Update Released!",
+    "description": "Four licensed Jaguar vehicles have been added to Greenville, along with new interactive features and a dealership UI revamp.",
+    "changelogs": [
+      "Added 1994 Jaguar XJ220",
+      "Added 2013 Jaguar XKR-S Convertible (functioning folding top)",
+      "Added 2014 Jaguar XJ-L R",
+      "Added 2015 Jaguar XFR-S Sedan",
+      "New dealership UI with 360\u00b0 car previews",
+      "Key fob UI: remote start",
+      "lock/unlock",
+      "alarm",
+      "eject",
+      "New 3D rims and trim selection"
+    ],
+    "game_link": "https://www.roblox.com/games/1220763067/Greenville"
   }
 ]
